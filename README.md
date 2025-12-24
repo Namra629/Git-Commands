@@ -4,7 +4,7 @@
 
 1. Make a empty repo on github
 
-2. On local VM 
+# As a regular user on your local VM
 
 1.  Clone the github repo
 
