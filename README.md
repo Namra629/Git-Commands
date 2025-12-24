@@ -25,7 +25,7 @@
        git config --global user.name "Your Name"
 
 
-<img width="686" height="203" alt="image" src="https://github.com/user-attachments/assets/5b69fdeb-e15e-4654-9526-cd8635b3772e" />
+      <img width="686" height="203" alt="image" src="https://github.com/user-attachments/assets/5b69fdeb-e15e-4654-9526-cd8635b3772e" />
 
 
 5. Copy the files from the VM path into this repo.
